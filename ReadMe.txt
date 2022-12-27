@@ -24,7 +24,7 @@ You can redistribute it and/or modify it under the terms of the GNU General Publ
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
 
 See the single files for more detailed Copyright information.
-Some files contains citation of the paper:
+Some files contain citation of the paper:
 - R. Parthasarathy, “Rapid, accurate particle tracking by calculation of radial symmetry centers,” Nature Methods (online publication date: June 10, 2012). DOI: 10.1038/nmeth.2071
 
 ------------------------------------------------------------------
